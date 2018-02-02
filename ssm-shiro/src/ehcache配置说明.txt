@@ -1,0 +1,2 @@
+1、新加文件applicationContext-cache.xml，ehcache.xml，applicationContext-shiro.xml
+2、applicationContext-shiro.xml修改（凡是添加有<!--原有缓存配置  -->是原有配置）
